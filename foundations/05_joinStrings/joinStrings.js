@@ -12,7 +12,7 @@ const age = thisYear - birthYear;/*
  The greeting should read: "Hello! My name is Carlos Stevenson and I am 18 years old."
 */
 
-// Add your code right below, good luck!
+// Add your code right below, good luck! had to change the whole thing lmao
 
 const greeting =  `Hello! My name is ${fullName} and I am ${age} years old.`;
 
